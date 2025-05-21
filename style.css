@@ -2,11 +2,11 @@
 /* Custom scrollbar */
 ::-webkit-scrollbar {
   width: 8px;
-}
+} */
 
 ::-webkit-scrollbar-track {
   background: #1e293b;
-}
+} 
 
 ::-webkit-scrollbar-thumb {
   background: #64748b;
@@ -26,5 +26,5 @@ section {
 section.show {
   opacity: 1;
   transform: translateY(0) !important;
-}
+} 
 
